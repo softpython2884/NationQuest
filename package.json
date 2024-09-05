@@ -1,5 +1,5 @@
 {
-  "name": "nationquest",
+  "name": "nationquests",
   "version": "2.2.1",
   "productName": "NationQuest Inc.",
   "description": "NQ Minecraft Launcher",
@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "homepage": "https://github.com/softpython2884/NationQuest",
   "bugs": {
-    "url": "https://github.com/softpython2884/NationQuest/issues"
+    "url": "https://discord.gg/p6JyeZXkRa"
   },
   "private": true,
   "main": "index.js",
