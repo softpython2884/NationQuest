@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Nation Quest"
+title = "Nation Quest Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "#"
+mediaGitHubURL = "https://nationquest.websr.fr/"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/p6JyeZXkRa"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
+sourceGithubLink = "https://nationquest.websr.fr/"
 supportLink = "https://discord.gg/p6JyeZXkRa"
 
 [ejs.welcome]
 welcomeHeader = "WELCOME TO NATION QUEST"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeDescription = "Salut jeune aventurier ! Ici, c’est Nation Quest. Viens sur Artemis ou Cresus et crée ta légende ! Améliore tes compétences et ton équipement, et pars combattre les plus grands boss ! Bonne Route."
+welcomeDescCTA = "Vous n'êtes qu'à quelques clics d'Artemis."
