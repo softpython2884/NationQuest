@@ -4,8 +4,8 @@
   "productName": "Nation Quest Launcher",
   "description": "Nations Quest Launcher",
   "author": "NightFury",
-  "license": "UNLICENSED",
-  "homepage": "https://discord.gg/p6JyeZXkRa",
+  "license": "Tout Droit Reservés Par Helios et Nation Quest",
+  "homepage": "https://github.com/softpython2884/NationQuest",
   "bugs": {
     "url": "https://discord.gg/p6JyeZXkRa"
   },
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/softpython2884/NationQuest.git"
   }
 }

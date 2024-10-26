@@ -1,6 +1,6 @@
 # Microsoft Authentication
 
-Authenticating with Microsoft is fully supported by Helios Launcher.
+Authenticating with Microsoft is fully supported by Nation Quest Launcher.
 
 ## Acquiring an Azure Client ID
 
