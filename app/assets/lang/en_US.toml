@@ -173,7 +173,7 @@ players = "PLAYERS"
 [js.landing.systemScan]
 checking = "Checking system info.."
 noCompatibleJava = "No Compatible<br>Java Installation Found"
-installJavaMessage = "In order to launch Minecraft, you need a 64-bit installation of Java {major}. Would you like us to install a copy?"
+installJavaMessage = "Pour lancer Minecraft, vous avez besoin d'une installation 64 bits de Java {major}. Souhaitez-vous que nous installions une copie ?"
 installJava = "Install Java"
 installJavaManually = "Install Manually"
 javaDownloadPrepare = "Preparing Java Download.."
