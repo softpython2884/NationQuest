@@ -4,10 +4,10 @@
 title = "Nation Quest Launcher"
 
 [ejs.landing]
-mediaGitHubURL = "https://nationquest.websr.fr/"
-mediaTwitterURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
+mediaGitHubURL = "https://github.com/softpython2884/NationQuest"
+mediaTwitterURL = "https://nationquest.fr"
+mediaInstagramURL = "wikinationquest.websr.gg"
+mediaYouTubeURL = "https://www.youtube.com/@NationQuest-MMORPG"
 mediaDiscordURL = "https://discord.gg/p6JyeZXkRa"
 
 [ejs.settings]
